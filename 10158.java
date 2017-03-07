@@ -1,4 +1,6 @@
 /*
+* UVa 10158: War
+* 
 * Problem Statement: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1099
 */
 
